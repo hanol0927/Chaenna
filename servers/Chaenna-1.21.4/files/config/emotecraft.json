@@ -1,0 +1,67 @@
+{
+  "config_version": 4,
+  "loadbuiltin": true,
+  "quark": false,
+  "dark": true,
+  "oldChooseWheel": false,
+  "perspective": true,
+  "default3rdPersonFront": false,
+  "showicon": true,
+  "enableNSFW": true,
+  "alwaysOpenScreen": false,
+  "debug": true,
+  "validate": false,
+  "validationThreshold": 8.0,
+  "emotesFolderOnLogicalServer": false,
+  "emotesDirectory": "emotes",
+  "autoFixEmoteStop": true,
+  "checkPose": true,
+  "alwaysValidateEmote": false,
+  "playersafety": true,
+  "stopthreshold": 2980.9573,
+  "yratio": 0.75,
+  "showHiddenConfig": false,
+  "neverRemoveBadIcon": false,
+  "exportBuiltin": false,
+  "hideWarning": false,
+  "fastmenu": {
+    "0": {
+      "0": "0f36b40a-4cd0-4a25-a416-e1d04b244be7",
+      "1": "691c6abb-a875-4d56-85f0-ad9776b732b0",
+      "2": "dc342844-eeab-4895-859e-b0720427a2e2",
+      "3": "87e8adf4-0000-0000-0000-000000000000",
+      "4": "ebfb1e69-330a-4970-8bca-f5625c90681a",
+      "5": "60562105-6942-4cdf-b935-138c2421e56b",
+      "6": "ffdcfa49-0000-0000-0000-000000000000",
+      "7": "c7445459-7de5-4153-93ac-e6fa89ae2548"
+    },
+    "1": {
+      "0": "03816f5c-0000-0000-0000-000000000000",
+      "1": "15a345e6-0000-0000-0000-000000000000",
+      "2": "0c3ae4c9-0000-0000-0000-000000000000",
+      "3": "2cca224f-0000-0000-0000-000000000000",
+      "4": "33b912f8-0aa0-45e6-a2d4-9b5677e6f35c",
+      "5": "01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a",
+      "6": "1fcbc1d8-0000-0000-0000-000000000000",
+      "7": "05482594-0000-0000-0000-000000000000"
+    },
+    "2": {
+      "0": "2ec6949b-0000-0000-0000-000000000000",
+      "1": "d711e717-0000-0000-0000-000000000000",
+      "2": "fe7295cb-0000-0000-0000-000000000000",
+      "3": "c65a0539-0000-0000-0000-000000000000",
+      "4": "94bcf5eb-0000-0000-0000-000000000000",
+      "5": "b3c2e585-0000-0000-0000-000000000000",
+      "6": "6c1ea5f8-0000-0000-0000-000000000000",
+      "7": "c12d3d0a-0000-0000-0000-000000000000"
+    },
+    "3": {
+      "0": "8176c0b9-0000-0000-0000-000000000000",
+      "4": "27fe46fd-0000-0000-0000-000000000000",
+      "5": "b3b6c058-0000-0000-0000-000000000000",
+      "6": "b0367230-0000-0000-0000-000000000000",
+      "7": "5b5bad3d-0000-0000-0000-000000000000"
+    }
+  },
+  "keys": {}
+}
